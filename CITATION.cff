@@ -1,10 +1,10 @@
 cff-version: 1.2.0
-message: "If you use these code samples, please cite it as below."
+message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Khoje"
-  given-names: "Mandar"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-version: 0.0.1
+  - family-names: Khoje
+    given-names: Mandar
+    orcid: https://orcid.org/1234-5678-9101-1121
+title: "Masking code examples"
+version: 2.0.4
 doi: 10.5281/zenodo.1234
 date-released: 2023-11-11
-url: "https://github.com/mandarkhoje/masking/"
